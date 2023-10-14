@@ -1,0 +1,42 @@
+body{
+    background: #2fe8cc;
+    font-style: oblique;
+}
+.div1, .div2{
+    background: #c793bf;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 500px;
+}
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 80px;
+}
+#word{
+    width: 60%;
+    
+}
+#word_display{
+    letter-spacing: 5px;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#container{
+    border: 5px solid black;
+    width: 550px;
+    height: 850px;
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+    font-style: oblique;
+}
